@@ -1,0 +1,104 @@
+body {
+    background-color: #d2d3d7;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.logo {
+    margin: 20px 0 20px 0;
+}
+
+.menu {
+    background-color: #f06043;
+    border-radius: 20px 20px 0 0;
+    padding: 5px 0;
+}
+
+.menu .nav li a {
+    color: #ffffff;
+    border-right: 1px solid #ffffff;
+}
+  
+.menu .nav li a:hover {
+    color: #000000;
+}
+
+.menu .nav li:last-child a {
+    border-right: none;
+}
+
+.custom-jtr {
+    background-color: #ffd035;
+    margin-bottom: 0;
+}
+
+.custom-btn {
+    background-color: #f06043;
+    border-color: #f06043;
+}
+
+.custom-btn:hover {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.lorem {
+    background-color: #ffffff;
+}
+
+.lorem1, .lorem2, .lorem3 {
+    background-color: #bdbec2;
+    color: #ffffff;
+    padding: 30px 20px;
+}
+
+.lorem1 {
+    margin: 15px;
+}
+
+.lorem2 {
+    margin: 15px 15px 15px 0;
+}
+
+.lorem3 {
+    margin: 15px 15px 15px 0;
+}
+
+.menu1 {    
+    background-color: #ffffff;
+    color: #999999;
+    padding-top: 20px;
+}
+
+.menu1 .nav li a {
+    color: #999999;
+    font-size: 18px;
+}
+  
+.menu1 .nav li a:hover {
+    color: #000000;
+}
+
+.vertical-menu {
+    padding-left: 80px;
+    border-right: 2px solid #999999;
+}
+
+.lorem4 {
+    padding-left: 50px;
+}
+
+.management {
+    background-color: #ed1b25;
+    color: #ffffff;
+    padding: 30px 20px 20px 20px;
+}
+
+.management1, .market {
+    margin-right: 20px;
+}
+
+h5 {
+    font-weight: 600;
+    padding-bottom: 20px;
+}
